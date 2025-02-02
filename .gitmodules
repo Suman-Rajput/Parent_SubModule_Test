@@ -1,0 +1,3 @@
+[submodule "SubModule_Test"]
+	path = SubModule_Test
+	url = https://github.com/Suman-Rajput/SubModule_Test.git
